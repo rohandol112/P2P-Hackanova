@@ -16,7 +16,7 @@ The P2P Lending Platform is a web application that connects borrowers and lender
 
 - **Frontend**: React, TypeScript, Material-UI
 - **Backend**: Python, FastAPI (or Flask/Django)
-- **Database**: PostgreSQL (or any other preferred database)
+- **Database**: MongoDB
 - **State Management**: Redux Toolkit
 - **Charting**: Chart.js for visualizing data
 
